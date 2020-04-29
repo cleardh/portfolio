@@ -23,8 +23,34 @@
     text-align: center;
 
     .lg-heading {
+      text-align: left;
+      font-size: 4rem;
       line-height: 1;
       margin-bottom: 1rem;
+    }
+
+    .sm-heading {
+      text-align: left;
+      font-size: 1.5rem;
+    }
+
+    .icons {
+      text-align: left;
+    }
+
+    .boxes {
+      div {
+        font-size: 1rem;
+      }
+    }
+
+    .job {
+      h3,
+      h6,
+      p {
+        text-align: left;
+        padding-left: 1rem;
+      }
     }
   }
 
