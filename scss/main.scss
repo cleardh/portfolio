@@ -126,11 +126,9 @@ main {
     border: 3px #fff solid;
   }
 
-  .project-link {
-    img:hover {
-      border-color: $secondary-color;
-      opacity: 0.7;
-    }
+  .project-link:hover {
+    border-color: $secondary-color;
+    opacity: 0.7;
   }
 }
 
